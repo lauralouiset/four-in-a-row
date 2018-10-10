@@ -6,11 +6,9 @@ class Board{
 		this.spaces = this.createSpaces();
 	}
 
-
 	/** Creates 2D array of spaces on the board
 		* @return 	{Array}		An array of space objects
 	*/
-
 	createSpaces(){
 		const spaces = [];
 
@@ -22,7 +20,7 @@ class Board{
 				column.push(space);
 			}
 			spaces.push(column);
-	}
+		}
 	return spaces;
 	}
 
