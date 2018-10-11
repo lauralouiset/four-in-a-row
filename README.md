@@ -1,4 +1,4 @@
-# four-in-a-row
+# Four-In-A-Row
 
 A simple Connect-Four style game written with Object-Oriented Javascript!
 
